@@ -12,12 +12,12 @@ Incentivized Financial Responsibility: Users are rewarded for responsible debit 
 Application Design
 The design for the Squid app was created using Figma. You can explore the user interface below:
 
-Figma Design <!-- Add your Figma link here -->
+Figma Design (https://www.figma.com/proto/fGr7xGYAt9GKaNdXVk03ol/Squid-App?node-id=32-80&node-type=canvas&t=mLk1hIfSg0o5GvrZ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A848&show-proto-sidebar=1)
 
 Presentation
 The full concept was presented during the FinTech Hackathon. The presentation highlights the problem being addressed, the solution, and the technical implementation:
 
-Presentation Slides <!-- Add the link to your presentation PPT here -->
+Presentation Slides: See the repository
 
 Technologies Used
 Figma: For UI/UX design and prototyping.
@@ -29,16 +29,5 @@ Users register and link their bank accounts to the Squid app.
 All debit transactions are monitored in real-time.
 A dynamic credit score is calculated using the semi-supervised algorithm, which adapts based on user behavior.
 Users receive rewards and feedback based on their financial management.
-Future Development
-This repository will be continuously updated with:
 
-Algorithm Implementation: Code for the clustering and fuzzy logic-based credit scoring model.
-App Prototype: Further development of the app’s backend and functionality.
-Documentation: Detailed explanation of the machine learning model and decision-making process.
-Contact
-For more information, feel free to reach out:
-
-Amit Dhavale
-Email: amit.dhavale@example.com
-LinkedIn: Amit Dhavale <!-- Your LinkedIn profile link -->
 
